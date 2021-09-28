@@ -1,0 +1,16 @@
+{
+  "name": "clinicapp",
+  "version": "0.0.1",
+  "description": "This is an app to make sense of clinical blood test results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "esbarila",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
